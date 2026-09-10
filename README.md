@@ -1,2 +1,2 @@
 # research-tools-week1
-数据安全实验
+本项目用于学习 Git 的基本操作
